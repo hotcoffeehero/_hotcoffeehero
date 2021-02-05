@@ -11,10 +11,11 @@ const projects = [
   },
   {
     id: '2',
-    url: 'https://www.liamgallagher.com/index.php',
-    image: `${people}liam_gallagher.png`,
-    title: 'Coming Soon',
-    desc: 'In the meantime, peruse the britpop Titan himself...',
+    url: 'http://nondescript-comfort.surge.sh/',
+    image: `${project}form_validator_2.jpg`,
+    title: 'Form Validator',
+    desc:
+      'A code-along with Traversy Media, JS forms on html and css canvas...',
   },
   {
     id: '3',

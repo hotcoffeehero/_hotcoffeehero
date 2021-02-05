@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react'
 import { Container } from 'react-bootstrap'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
+import './index.css'
 
 //Components
 import Header from './components/Header'

@@ -4,6 +4,8 @@ import Project from '../components/Project'
 import projects from '../projects'
 
 const HomeScreen = () => {
+  const divStyle = {}
+
   return (
     <>
       <h1>Latest Projects...</h1>

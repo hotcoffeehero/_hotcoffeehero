@@ -55,7 +55,14 @@ const projects = [
       'My first ever React Project with Coding Revolution. 2.0 will be Britpop related.',
   },
   {
-    id: '8',
+    id: '9',
+    url: 'http://unused-doll.surge.sh/',
+    image: `${project}video_player.png`,
+    title: 'Video Player',
+    desc: 'A video/audio API code-along with Traversy. This is me in Nagasaki!',
+  },
+  {
+    id: '10',
     url: 'https://www.google.com',
     image: `${project}coming_soon.jpg`,
     title: 'Coming Soon',

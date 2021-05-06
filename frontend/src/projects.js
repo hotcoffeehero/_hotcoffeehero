@@ -11,11 +11,10 @@ const projects = [
   },
   {
     id: '2',
-    url: 'http://nondescript-comfort.surge.sh/',
-    image: `${project}form_validator_2.jpg`,
-    title: 'Form Validator',
-    desc:
-      'A code-along with Traversy Media, JS forms on html and css canvas...',
+    url: 'http://purring-beef.surge.sh/',
+    image: `${project}currency_converter.png`,
+    title: 'Forex Calculator',
+    desc: 'ATraversy code-along. My first forex calculator with Fetch API!',
   },
   {
     id: '3',
@@ -63,6 +62,14 @@ const projects = [
   },
   {
     id: '10',
+    url: 'http://nondescript-comfort.surge.sh/',
+    image: `${project}form_validator_2.jpg`,
+    title: 'Form Validator',
+    desc:
+      'A code-along with Traversy Media, JS forms on html and css canvas...',
+  },
+  {
+    id: '11',
     url: 'https://www.google.com',
     image: `${project}coming_soon.jpg`,
     title: 'Coming Soon',

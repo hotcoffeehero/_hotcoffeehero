@@ -32,11 +32,11 @@ const projects = [
   },
 
   {
-    id: '6',
-    url: 'https://www.trsite.org/',
-    image: `${people}teddy_roosevelt.png`,
-    title: 'Coming Soon',
-    desc: "In the meantime, peruse Babylon's most energetic Head of State.",
+    id: '7',
+    url: 'http://curved-value.surge.sh/',
+    image: `${project}array_methods.png`,
+    title: 'Array Methods',
+    desc: 'Code with Trav. DOM manipulation with array methods in Vanilla JS.',
   },
   {
     id: '7',

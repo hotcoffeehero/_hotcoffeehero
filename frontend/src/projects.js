@@ -17,6 +17,13 @@ const projects = [
     desc: 'Trav: Click on an image, watch it grow. Japan is カッコイイね。',
   },
   {
+    // id: '11',
+    url: 'http://aggressive-fork.surge.sh/',
+    image: `${project}progress_steps.png`,
+    title: 'Clicking Progress',
+    desc: 'A progess bar. A code-along with Traversy.',
+  },
+  {
     // id: '2',
     url: 'http://purring-beef.surge.sh/',
     image: `${project}currency_converter.png`,

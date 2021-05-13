@@ -10,6 +10,14 @@ const projects = [
     desc: 'A MERN stack Ecommerce site. A code-along with Traversy Media',
   },
   {
+    // id: '1',
+    url: 'http://aquatic-seashore.surge.sh/',
+    image: `${project}burger.png`,
+    title: 'The Rotating Nav',
+    desc:
+      'Code-along with Trav. A Navbar rotating open and closed like a boss.',
+  },
+  {
     // id: '11',
     url: 'http://hateful-trains.surge.sh/',
     image: `${project}child_of_god.png`,

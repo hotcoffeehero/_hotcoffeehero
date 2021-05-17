@@ -11,11 +11,17 @@ const projects = [
   },
   {
     // id: '1',
+    url: 'http://pointless-anger.surge.sh/',
+    image: `${project}search_bar.png`,
+    title: 'Search the Web...',
+    desc: 'A google search widget that lets you explore the world wide web. ',
+  },
+  {
+    // id: '1',
     url: 'http://aquatic-seashore.surge.sh/',
     image: `${project}burger.png`,
     title: 'The Rotating Nav',
-    desc:
-      'Code-along with Trav. A Navbar rotating open and closed like a boss.',
+    desc: 'Code-along with Trav. A Navbar rotating open and closed like a boss.',
   },
   {
     // id: '11',
@@ -72,8 +78,7 @@ const projects = [
     url: 'http://gabby-mark.surge.sh/',
     image: `${project}the_venue.png`,
     title: 'The Venue',
-    desc:
-      'My first ever React Project with Coding Revolution. 2.0 will be Britpop related.',
+    desc: 'My first ever React Project with Coding Revolution. 2.0 will be Britpop related.',
   },
   {
     // id: '9',
@@ -87,8 +92,7 @@ const projects = [
     url: 'http://nondescript-comfort.surge.sh/',
     image: `${project}form_validator_2.jpg`,
     title: 'Form Validator',
-    desc:
-      'A code-along with Traversy Media, JS forms on html and css canvas...',
+    desc: 'A code-along with Traversy Media, JS forms on html and css canvas...',
   },
   {
     // id: '11',

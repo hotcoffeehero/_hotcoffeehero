@@ -68,10 +68,10 @@ const projects = [
   },
   {
     // id: '7',
-    url: 'https://www.google.com',
-    image: `${people}nikola_tesla.jpg`,
-    title: 'Coming Soon',
-    desc: "Peruse the man we didn't learn about in school for a reason. ",
+    url: 'http://silent-credit.surge.sh/',
+    image: `${project}blurry_loader.png`,
+    title: 'Blurry Loader',
+    desc: 'Watch the opacity fade as the page loads. Image: Hamamatsu Castle, Shizuoka. ',
   },
   {
     // id: '8',

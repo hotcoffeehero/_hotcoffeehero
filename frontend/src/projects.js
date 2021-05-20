@@ -96,10 +96,10 @@ const projects = [
   },
   {
     // id: '11',
-    url: 'https://www.google.com',
-    image: `${project}coming_soon.jpg`,
-    title: 'Coming Soon',
-    desc: "What'll it be!? Spoiler: Some type of social network",
+    url: 'http://milky-thunder.surge.sh/',
+    image: `${project}div_spawn.png`,
+    title: 'Div Spawner',
+    desc: 'Code with Trav. Scroll down and watch divs materialize right and left.',
   },
 ]
 

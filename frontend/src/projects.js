@@ -11,6 +11,13 @@ const projects = [
   },
   {
     // id: '1',
+    url: 'http://hushed-meeting.surge.sh/',
+    image: `${project}split_screen.png`,
+    title: 'Split Screen Landing',
+    desc: 'Code with Trav. This odyssey in CSS captures the essence of the console wars.',
+  },
+  {
+    // id: '1',
     url: 'http://pointless-anger.surge.sh/',
     image: `${project}search_bar.png`,
     title: 'Search the Web...',

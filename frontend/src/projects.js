@@ -10,6 +10,13 @@ const projects = [
     desc: 'A MERN stack Ecommerce site. A code-along with Traversy Media',
   },
   {
+    // id: '1',
+    url: 'http://sedate-building.surge.sh/',
+    image: `${project}dad_joke.png`,
+    title: 'Dad Jokes',
+    desc: 'Trav and I use async await to request dad jokes from a 3rd party API.',
+  },
+  {
     // id: '2',
     url: 'http://filthy-nose.surge.sh/',
     image: `${project}sound_board.png`,

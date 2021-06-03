@@ -11,6 +11,13 @@ const projects = [
   },
   {
     // id: '1',
+    url: 'http://combative-mask.surge.sh/',
+    image: `${project}centered_div.png`,
+    title: 'centered div',
+    desc: 'We have masted the art of moving a box to the center of the page.',
+  },
+  {
+    // id: '1',
     url: 'http://sedate-building.surge.sh/',
     image: `${project}dad_joke.png`,
     title: 'Dad Jokes',

@@ -11,6 +11,13 @@ const projects = [
   },
   {
     // id: '1',
+    url: 'https://heady-smash.surge.sh/',
+    image: `${project}faq_collapse.png`,
+    title: 'faq collapse',
+    desc: 'forEach, classList and parentNode bring this faq experience to life.',
+  },
+  {
+    // id: '1',
     url: 'http://combative-mask.surge.sh/',
     image: `${project}centered_div.png`,
     title: 'centered div',

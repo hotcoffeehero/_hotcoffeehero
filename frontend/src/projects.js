@@ -11,6 +11,13 @@ const projects = [
   },
   {
     // id: '1',
+    url: 'https://acceptable-stew.surge.sh/',
+    image: `${project}the_decider.png`,
+    title: 'the decider',
+    desc: 'Enter your choices and watch JS pseudo-randomly decide for you!',
+  },
+  {
+    // id: '1',
     url: 'https://heady-smash.surge.sh/',
     image: `${project}faq_collapse.png`,
     title: 'faq collapse',

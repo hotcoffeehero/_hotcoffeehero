@@ -12,7 +12,7 @@ const projects = [
   {
     // id: '1',
     url: 'https://acceptable-stew.surge.sh/',
-    image: `${project}the_decider.png`,
+    image: `${project}the_decider.jpg`,
     title: 'the decider',
     desc: 'Enter your choices and watch JS pseudo-randomly decide for you!',
   },

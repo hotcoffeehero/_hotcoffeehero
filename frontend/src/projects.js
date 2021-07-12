@@ -11,6 +11,13 @@ const projects = [
   },
   {
     // id: '1',
+    url: 'https://small-size.surge.sh/',
+    image: `${project}increment_counter.png`,
+    title: 'increment counter',
+    desc: 'forEach and setTimeout make for a social media follower flex...',
+  },
+  {
+    // id: '1',
     url: 'http://flashy-soap.surge.sh/',
     image: `${project}animated_nav.png`,
     title: 'animated nav',

@@ -11,6 +11,13 @@ const projects = [
   },
   {
     // id: '1',
+    url: 'https://typical-step.surge.sh/',
+    image: `${project}drink_water.png`,
+    title: 'drink water!',
+    desc: 'Stay hydrated with this holy trin exercise is managing water intake, my friend.',
+  },
+  {
+    // id: '1',
     url: 'https://small-size.surge.sh/',
     image: `${project}increment_counter.png`,
     title: 'increment counter',

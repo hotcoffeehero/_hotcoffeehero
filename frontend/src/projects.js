@@ -11,6 +11,13 @@ const projects = [
   },
   {
     // id: '1',
+    url: 'https://rough-farmer.surge.sh/',
+    image: `${project}movie_app.png`,
+    title: 'cool movie app',
+    desc: 'the TMDB api and forEach let you troll the digital archives of cinema',
+  },
+  {
+    // id: '1',
     url: 'https://typical-step.surge.sh/',
     image: `${project}drink_water.png`,
     title: 'drink water!',

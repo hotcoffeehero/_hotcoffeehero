@@ -11,6 +11,13 @@ const projects = [
   },
   {
     // id: '1',
+    url: 'http://roasted-wing.surge.sh/',
+    image: `${project}background_slider.png`,
+    title: 'background slider',
+    desc: 'querySelectorAll takes you through the magical land of Nippon',
+  },
+  {
+    // id: '1',
     url: 'https://rough-farmer.surge.sh/',
     image: `${project}movie_app.png`,
     title: 'cool movie app',

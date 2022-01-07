@@ -11,6 +11,13 @@ const projects = [
   },
   {
     // id: '1',
+    url: 'https://unused-steam.surge.sh/',
+    image: `${project}theme_clock.png`,
+    title: 'cool theme clock',
+    desc: 'a code-along with Trav renders the time in light and dark mode',
+  },
+  {
+    // id: '1',
     url: 'http://roasted-wing.surge.sh/',
     image: `${project}background_slider.png`,
     title: 'background slider',

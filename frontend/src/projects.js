@@ -10,6 +10,12 @@ const projects = [
     desc: 'A MERN stack Ecommerce site. A code-along with Traversy Media',
   },
   {
+    url: 'https://racial-winter.surge.sh/',
+    image: `${project}to_do_list.png`,
+    title: 'to do list',
+    desc: 'A code along with the net ninja using super duper array methods'
+  },
+  {
     // id: '1',
     url: 'https://unused-steam.surge.sh/',
     image: `${project}theme_clock.png`,

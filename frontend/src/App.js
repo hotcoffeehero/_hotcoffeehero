@@ -11,11 +11,11 @@ import HomeScreen from './screens/HomeScreen'
 const App = () => (
   <Router>
     <Header />
-    <main className='py-3'>
-      <Container className='text-center'>
-        <Route path='/' component={HomeScreen} />
-      </Container>
-    </main>
+      <main className='py-3'>
+        <Container className='text-center'>
+          <Route path='/' component={HomeScreen} />
+        </Container>
+      </main>
     <Footer />
   </Router>
 )

@@ -10,17 +10,13 @@ const projects = [
     desc: 'power of MERN stack Ecommerce site: a code-along with trav-sensei',
   },
   {
-    url: 'https://racial-winter.surge.sh/',
-    image: `${project}to_do_list.png`,
-    title: 'to do list',
-    desc: 'code along with the net ninja using super duper array methods'
+    // id: '7',
+    url: 'http://hateful-trains.surge.sh/',
+    image: `${project}child_of_god.png`,
+    title: 'Image Rolex',
+    desc: 'Trav: Click on an image, watch it grow. Japan is カッコイイね。',
   },
-  {
-    url: 'https://classy-brother.surge.sh/',
-    image: `${project}rippling_button.png`,
-    title: 'rippling button',
-    desc: 'vanilla power: e.clientXY and offsetTop/Left animate a button'
-  },
+  
   {
     // id: '1',
     url: 'https://unused-steam.surge.sh/',
@@ -88,14 +84,14 @@ const projects = [
     // id: '1',
     url: 'http://sedate-building.surge.sh/',
     image: `${project}dad_joke.png`,
-    title: 'Dad Jokes',
+    title: 'dad jokes',
     desc: 'Trav and I use async await to request dad jokes from a 3rd party API',
   },
   {
     // id: '2',
     url: 'http://filthy-nose.surge.sh/',
     image: `${project}sound_board.png`,
-    title: 'Sound Board',
+    title: 'sound board',
     desc: 'forEach(), play(), pause(), and createElement() bring you sound clips',
   },
   {
@@ -116,28 +112,27 @@ const projects = [
     // id: '5',
     url: 'http://pointless-anger.surge.sh/',
     image: `${project}search_bar.png`,
-    title: 'Search the Web...',
+    title: 'search the web...',
     desc: 'a google search widget that lets you explore the world wide web ',
   },
   {
     // id: '6',
     url: 'http://aquatic-seashore.surge.sh/',
     image: `${project}burger.png`,
-    title: 'The Rotating Nav',
+    title: 'the rotating nav',
     desc: 'code-along with Trav. A Navbar rotating open and closed like a boss',
   },
   {
-    // id: '7',
-    url: 'http://hateful-trains.surge.sh/',
-    image: `${project}child_of_god.png`,
-    title: 'Image Rolex',
-    desc: 'Trav: Click on an image, watch it grow. Japan is カッコイイね。',
+    url: 'https://racial-winter.surge.sh/',
+    image: `${project}to_do_list.png`,
+    title: 'to do list',
+    desc: 'code along with the net ninja using super duper array methods'
   },
   {
     // id: '8',
     url: 'http://aggressive-fork.surge.sh/',
     image: `${project}progress_steps.png`,
-    title: 'Clicking Progress',
+    title: 'clicking crogress',
     desc: 'super progess bar: a code-along with Traversy in the land of vanilla',
   },
   {
@@ -148,10 +143,16 @@ const projects = [
     desc: 'Traversy code-along. My first forex calculator with Fetch API! and more',
   },
   {
+    url: 'https://classy-brother.surge.sh/',
+    image: `${project}rippling_button.png`,
+    title: 'rippling button',
+    desc: 'vanilla power: e.clientXY and offsetTop/Left animate a button'
+  },
+  {
     // id: '10'
     url: 'https://manchester-city-46483.web.app/',
     image: `${project}man_city.png`,
-    title: 'Man City',
+    title: 'man city',
     desc: 'FERN stack homepage for the famous football club I know nothing about',
   },
   {
@@ -166,28 +167,28 @@ const projects = [
     // id: '12',
     url: 'http://curved-value.surge.sh/',
     image: `${project}array_methods.png`,
-    title: 'Array Methods',
+    title: 'array methods',
     desc: 'code with Trav-sensei: DOM manipulation with array methods in Vanilla JS',
   },
   {
     // id: '13',
     url: 'http://silent-credit.surge.sh/',
     image: `${project}blurry_loader.png`,
-    title: 'Blurry Loader',
+    title: 'blurry loader',
     desc: 'watch the opacity fade as the page loads; Image: Hamamatsu Castle, Shizuoka ',
   },
   {
     // id: '14',
     url: 'http://gabby-mark.surge.sh/',
     image: `${project}the_venue.png`,
-    title: 'The Venue',
+    title: 'the venue',
     desc: 'first ever React Project with Coding Revolution. 2.0 will be Britpop related.',
   },
   {
     // id: '15',
     url: 'http://unused-doll.surge.sh/',
     image: `${project}video_player.png`,
-    title: 'Video Player',
+    title: 'video player',
     desc: 'super video/audio API code-along with Traversy. This is me in Nagasaki!',
   },
   {

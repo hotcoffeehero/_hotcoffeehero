@@ -10,29 +10,29 @@ const projects = [
     desc: 'power of MERN stack Ecommerce site: a code-along with trav-sensei',
   },
   {
-    // id: '7',
+    // id: '3',
     url: 'http://hateful-trains.surge.sh/',
     image: `${project}child_of_god.png`,
-    title: 'Image Rolex',
+    title: 'image Rolex',
     desc: 'Trav: Click on an image, watch it grow. Japan is カッコイイね。',
   },
   
   {
-    // id: '1',
+    // id: '4',
     url: 'https://unused-steam.surge.sh/',
     image: `${project}theme_clock.png`,
     title: 'cool theme clock',
     desc: 'a code-along with Trav renders the time in light and dark mode',
   },
   {
-    // id: '1',
+    // id: '5',
     url: 'http://roasted-wing.surge.sh/',
     image: `${project}background_slider.png`,
     title: 'background slider',
     desc: 'querySelectorAll takes you through the magical land of Nippon',
   },
   {
-    // id: '1',
+    // id: '6',
     url: 'https://rough-farmer.surge.sh/',
     image: `${project}movie_app.png`,
     title: 'cool movie app',
@@ -43,7 +43,7 @@ const projects = [
     url: 'https://typical-step.surge.sh/',
     image: `${project}drink_water.png`,
     title: 'drink water!',
-    desc: 'Stay hydrated with this holy trin exercise is managing water intake, my friend.',
+    desc: 'stay hydrated with this vanilla power project managing water intake',
   },
   {
     // id: '1',
@@ -65,6 +65,13 @@ const projects = [
     image: `${project}the_decider.jpg`,
     title: 'the decider',
     desc: 'Enter your choices and watch JS pseudo-randomly decide for you!',
+  },
+  {
+    // id: '',
+    url: 'http://noisy-stage.surge.sh/',
+    image: `${project}drag_drop.png`,
+    title: 'drag n drop',
+    desc: 'Trav: drage events let us move images box to box for a fun time.',
   },
   {
     // id: '1',

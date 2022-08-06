@@ -67,13 +67,6 @@ const projects = [
     desc: 'Enter your choices and watch JS pseudo-randomly decide for you!',
   },
   {
-    // id: '',
-    url: 'http://noisy-stage.surge.sh/',
-    image: `${project}drag_drop.png`,
-    title: 'drag n drop',
-    desc: 'Trav: drage events let us move images box to box for a fun time.',
-  },
-  {
     // id: '1',
     url: 'https://heady-smash.surge.sh/',
     image: `${project}faq_collapse.png`,
@@ -116,6 +109,13 @@ const projects = [
     desc: 'code with Trav. This odyssey in CSS captures the essence of the console wars',
   },
   {
+    // id: '6',
+    url: 'http://aquatic-seashore.surge.sh/',
+    image: `${project}burger.png`,
+    title: 'the rotating nav',
+    desc: 'code-along with Trav. A Navbar rotating open and closed like a boss',
+  },
+  {
     // id: '5',
     url: 'http://pointless-anger.surge.sh/',
     image: `${project}search_bar.png`,
@@ -123,11 +123,18 @@ const projects = [
     desc: 'a google search widget that lets you explore the world wide web ',
   },
   {
-    // id: '6',
-    url: 'http://aquatic-seashore.surge.sh/',
-    image: `${project}burger.png`,
-    title: 'the rotating nav',
-    desc: 'code-along with Trav. A Navbar rotating open and closed like a boss',
+    // id: '',
+    url: 'http://noisy-stage.surge.sh/',
+    image: `${project}drag_drop.png`,
+    title: 'drag n drop',
+    desc: 'Trav: drage events let us move images box to box for a fun time.',
+  },
+  {
+    // id: '',
+    url: 'https://magnificent-chairs.surge.sh/',
+    image: `${project}drawing_app.png`,
+    title: 'sketchpad',
+    desc: 'Trav: the power of the js canvas object unleashes your mind in 2d.',
   },
   {
     url: 'https://racial-winter.surge.sh/',
